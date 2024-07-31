@@ -2,7 +2,6 @@
 
 <div align="center">
   
-| **[dataset-generator](dataset-generator)**
 | **[Environment Setup](#environment-setup)**
 | **[Quick Start](#quick-start)** 
 | **[Paper](http://arxiv.org/abs/2407.01979)**
