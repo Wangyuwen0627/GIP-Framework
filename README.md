@@ -2,7 +2,8 @@
 
 <div align="center">
   
-| [dataset-generator](dataset-generator)**[Environmen[dataset-generator](dataset-generator)t Setup](#environment-setup)**
+| **[dataset-generator](dataset-generator)**
+| **[Environment Setup](#environment-setup)**
 | **[Quick Start](#quick-start)** 
 | **[Paper](http://arxiv.org/abs/2407.01979)**
 | **[Video](https://youtu.be/V2Hstu-e2ow?list=PLn0nrSd4xjja0X85oQRfVQarMKL-pocwR)**
